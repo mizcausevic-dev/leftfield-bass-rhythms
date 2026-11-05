@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:02.270948+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z3901-leftfield-bass-rhythms-opening/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "91499b9cf6211c886bf9672471860e168f0619865961ac449ea4a893d79a7719",
+      "errors": []
+    },
+    {
+      "path": "midi/z3901-leftfield-bass-rhythms-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "2455b8dbcb058888488a7cebeb6231cb08df968a1d102f2b67088e51b5d5e74f",
+      "errors": []
+    },
+    {
+      "path": "midi/z3901-leftfield-bass-rhythms-opening/drums.mid",
+      "bytes": 2666,
+      "sha256": "b326a9655dab04140e862b889003f0aebc3176922c9b4cb3ce21df44556532c3",
+      "errors": []
+    },
+    {
+      "path": "midi/z3901-leftfield-bass-rhythms-opening/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "f2ba52f97c7b7685f856969856700d907df775ee623bf6e34eb82d40d8fe7a37",
+      "errors": []
+    },
+    {
+      "path": "midi/z3901-leftfield-bass-rhythms-opening/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "c75e74b91bf5c436aced7dcdc73dc7442c56c962f137729eac7fc5d6ee7997c7",
+      "errors": []
+    },
+    {
+      "path": "midi/z3901-leftfield-bass-rhythms-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "fbf6b2647b6c9ffbbf0d370c5bf3385b1e66b42067294861e5a7ddcdb2b10902",
+      "errors": []
+    },
+    {
+      "path": "midi/z3901-leftfield-bass-rhythms-opening/z3901-leftfield-bass-rhythms-opening-combined.mid",
+      "bytes": 5718,
+      "sha256": "35d5fa9b285504edfffca1ff29822eb3acbc0e2d2ccd8f67e10db530a76a2a8c",
+      "errors": []
+    },
+    {
+      "path": "midi/z3902-leftfield-bass-rhythms-variation/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "8ad8d51037d260b4920b956a653d2864aa2c3ea5790a495ddee0a62e35a669cf",
+      "errors": []
+    },
+    {
+      "path": "midi/z3902-leftfield-bass-rhythms-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "31dca9cd0567d66f7b791d1f7352990892296a098477cd37a2fd0b122b40938f",
+      "errors": []
+    },
+    {
+      "path": "midi/z3902-leftfield-bass-rhythms-variation/drums.mid",
+      "bytes": 2666,
+      "sha256": "b326a9655dab04140e862b889003f0aebc3176922c9b4cb3ce21df44556532c3",
+      "errors": []
+    },
+    {
+      "path": "midi/z3902-leftfield-bass-rhythms-variation/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "4b408b65ca7a2eec93e38d20037ce5fa46f7d4cf20e9d46d296d54ebb0bd0c1c",
+      "errors": []
+    },
+    {
+      "path": "midi/z3902-leftfield-bass-rhythms-variation/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "debf3576eda0fb665dc39603e092b63bc3a417d6356ab81ad71f10db937d5674",
+      "errors": []
+    },
+    {
+      "path": "midi/z3902-leftfield-bass-rhythms-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "49056056b24ae335b5a6a369818ea87f836199c1ea9f1f68eaacca8d64145b95",
+      "errors": []
+    },
+    {
+      "path": "midi/z3902-leftfield-bass-rhythms-variation/z3902-leftfield-bass-rhythms-variation-combined.mid",
+      "bytes": 5718,
+      "sha256": "e08e693909bda669c8b9b98c66a0e532b780a7f47153ea44163dfbfa3b406fbb",
+      "errors": []
+    },
+    {
+      "path": "midi/z3903-leftfield-bass-rhythms-contrast/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "531840765ea7d985516d131d821da902b5a7aed730e518a44e7925491ab7e2d2",
+      "errors": []
+    },
+    {
+      "path": "midi/z3903-leftfield-bass-rhythms-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "64d0ade1ac8ef8653c307cc482769c896d460c6c563eb17a58e087f023f15ed8",
+      "errors": []
+    },
+    {
+      "path": "midi/z3903-leftfield-bass-rhythms-contrast/drums.mid",
+      "bytes": 2666,
+      "sha256": "b326a9655dab04140e862b889003f0aebc3176922c9b4cb3ce21df44556532c3",
+      "errors": []
+    },
+    {
+      "path": "midi/z3903-leftfield-bass-rhythms-contrast/principal_motif.mid",
+      "bytes": 782,
+      "sha256": "e9715484749fb206671d6ace2ad2b9530341fb528987261626124ba598658af2",
+      "errors": []
+    },
+    {
+      "path": "midi/z3903-leftfield-bass-rhythms-contrast/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "ff8f67fe787212e209384e423deeb5bfb60c1935625ff789d73f835480122743",
+      "errors": []
+    },
+    {
+      "path": "midi/z3903-leftfield-bass-rhythms-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "82edf735f6ccbb4e52843c730f95ac2f3d16155e032f7472d8f903c9fdcefa98",
+      "errors": []
+    },
+    {
+      "path": "midi/z3903-leftfield-bass-rhythms-contrast/z3903-leftfield-bass-rhythms-contrast-combined.mid",
+      "bytes": 5684,
+      "sha256": "7589e0802661bfc3060966f6e6f96c6022560c80abceb93a27437d1d6b1168e7",
+      "errors": []
+    },
+    {
+      "path": "midi/z3904-leftfield-bass-rhythms-return/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "f07ea69cbea1172157ae1b9a35be417a15e1ee6e829ff204eef6d2e04ad4f392",
+      "errors": []
+    },
+    {
+      "path": "midi/z3904-leftfield-bass-rhythms-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "fc118d2d18937c4c410febef7b7d5eb07d76fc02da3c2069dfb283dc07cb30a6",
+      "errors": []
+    },
+    {
+      "path": "midi/z3904-leftfield-bass-rhythms-return/drums.mid",
+      "bytes": 2666,
+      "sha256": "b326a9655dab04140e862b889003f0aebc3176922c9b4cb3ce21df44556532c3",
+      "errors": []
+    },
+    {
+      "path": "midi/z3904-leftfield-bass-rhythms-return/principal_motif.mid",
+      "bytes": 782,
+      "sha256": "1eb2c2b795fbc427b127a23a0cfe1462ace600e74855f003179982d15dff713d",
+      "errors": []
+    },
+    {
+      "path": "midi/z3904-leftfield-bass-rhythms-return/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "f6a3fefc951d50863182b5d5e05a6d77d3978fc55445ccaa4c0f7855b63e0a2b",
+      "errors": []
+    },
+    {
+      "path": "midi/z3904-leftfield-bass-rhythms-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "4717e9213be7995888ff5394b3851314b58dede3fd80bf40299f30831ea83c27",
+      "errors": []
+    },
+    {
+      "path": "midi/z3904-leftfield-bass-rhythms-return/z3904-leftfield-bass-rhythms-return-combined.mid",
+      "bytes": 5684,
+      "sha256": "ae4ddaa3a8363ae2784721f0bee41757f9eb5152ea23d5023ebd1b7151f4a710",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}
