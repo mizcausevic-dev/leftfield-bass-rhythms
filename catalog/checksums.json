@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/leftfield-bass-rhythms-midi.zip",
-      "bytes": 32760,
-      "sha256": "3e7064c8d18d9043f6a49d7151a72feb9b383dda2ee5e466e611937f5a8d7aea"
+      "bytes": 33747,
+      "sha256": "45350daf018d2d3d5d84a64b9b4ebe07367e56abb1986333efa0fe56bc1aa152"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9972,
-      "sha256": "4677fc3a1223fb562bc1c04d889b90f33d3ca3758ab92b9bef1419e7eb196f1e"
+      "bytes": 10162,
+      "sha256": "65b89f13d731ad0882569ce69cdceeb3b97cbc2a01be2205b63aa04cec486b98"
     },
     {
       "path": "midi/z3901-leftfield-bass-rhythms-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "ae4ddaa3a8363ae2784721f0bee41757f9eb5152ea23d5023ebd1b7151f4a710"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/leftfield-bass-rhythms-simple-synth-preview.mp3",
       "bytes": 1330408,
       "sha256": "a03ab748a3fecaaaf1d15218d2874d17d3a8391c914a3471d6630eb52cc950b5"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3979,
-      "sha256": "e2be33b9b51bb872ce2899223142b5339e862e293ffe429263102e6caefb6684"
+      "bytes": 4094,
+      "sha256": "27aa292e131644e9354eacbc96c0f7a5b9e167443d2cbf31161a4a48b446bf7c"
     },
     {
       "path": "social/instagram/caption.txt",
